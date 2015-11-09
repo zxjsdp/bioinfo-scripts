@@ -16,3 +16,13 @@ Index
 
     Convert Phylip file to FASTA file.
 
+### [PCA](https://github.com/zxjsdp/bioinfo-scripts/tree/master/PCA):
+
+- [Randomly_select_and_do_multiple_PCAs](https://github.com/zxjsdp/bioinfo-scripts/tree/master/PCA/Randomly_select_and_do_multiple_PCAs)
+
+    Randomly select data (similar to bootstrap method) and do PCA, draw PCA plots.
+
+- [PCA_with_name](https://github.com/zxjsdp/bioinfo-scripts/tree/master/PCA/PCA_with_name)
+
+    Do PCA and draw PCA plots with names.
+
