@@ -135,3 +135,19 @@ PCA automatically.
         - [vqv/ggbiplot @ GitHub](https://github.com/vqv/ggbiplot)
         - [Computing and visualizing PCA in R](http://www.r-bloggers.com/computing-and-visualizing-pca-in-r/)
 
+2. [PCA_with_name](https://github.com/zxjsdp/bioinfo-scripts/tree/master/PCA/PCA_with_name)
+
+    Do Principal Component Analysis and draw plot with name.
+
+    Example run:
+
+        python pca_with_name.py test.csv
+    
+    After running, there will be several files generated for you.
+    The one you want is commonly named "Rplots1.pdf".
+
+    This is what the PDF will be look like:
+
+    ![out1](PCA_with_name/Demo/out1.png)
+    ![out2](PCA_with_name/Demo/out2.png)
+
