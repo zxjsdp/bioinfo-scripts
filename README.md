@@ -26,3 +26,9 @@ Index
 
     Do PCA and draw PCA plots with names.
 
+### [Dictionary](https://github.com/zxjsdp/bioinfo-scripts/tree/master/Dictionary):
+
+- [CSV_Dictionary](https://github.com/zxjsdp/bioinfo-scripts/tree/master/Dictionary/CSV_Dictionary)
+
+    Query multiple lines by first column values in CSV file.
+
