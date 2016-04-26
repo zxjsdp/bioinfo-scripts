@@ -32,3 +32,7 @@ Index
 
     Query multiple lines by first column values in CSV file.
 
+### [Haplotype Related](https://github.com/zxjsdp/bioinfo-scripts/tree/master/Haplotype_Related):
+
+- [change_fdi_file_color](ttps://github.com/zxjsdp/bioinfo-scripts/blob/master/Haplotype_Related/change_fdi_file_color)
+
