@@ -1,0 +1,44 @@
+
+ Input Data File: C:\...\2. fasta (Without Blank Area)\2.fas
+ Number of sequences: 94    Number of sequences used: 94
+ Selected region: 1-584   Number of sites: 584
+ Total number of sites (excluding sites with gaps / missing data): 578
+
+ Sites with alignment gaps:  considered
+ Number of variable sites: 18
+
+ =========== Haplotype Distribution ===========
+ Number of haplotypes, h: 15
+ Haplotype diversity, Hd: 0.7854
+
+    Hap_1: 19  [1-3 5-9 51-52 58 60 66 72 78-80 84 86]
+    Hap_2: 3  [4 13-14]
+    Hap_3: 1  [10]
+    Hap_4: 1  [11]
+    Hap_5: 1  [12]
+    Hap_6: 3  [15-16 24]
+    Hap_7: 29  [17-19 21-23 25-43 45 47-49]
+    Hap_8: 3  [20 46 50]
+    Hap_9: 1  [44]
+    Hap_10: 27  [53-57 59 61-65 67-71 73-77 81-83 85 87-88]
+    Hap_11: 1  [89]
+    Hap_12: 1  [90]
+    Hap_13: 2  [91-92]
+    Hap_14: 1  [93]
+    Hap_15: 1  [94]
+
+    Hap_1: 19  [Uam1203A_11 Uam1203B_22 Uam13724A_33 Uam16103A_55 Uam16103B_66 Uam24064A_77 Uam24064B_88 Uam6586A_99 Uma009A_151 Uma009B_252 UmaB28B_858 UmaB30B_1060 UmaB34B_1666 UmaB38B_2272 UmaC5B_2878 UmagenomA_2979 UmagenomB_3080 UmaI02B_3484 UmaI03B_3686]
+    Hap_2: 3  [Uam13724B_44 UamC122A_1313 UamC122B_1414]
+    Hap_3: 1  [Uam6586B_1010]
+    Hap_4: 1  [Uam6616A_1111]
+    Hap_5: 1  [Uam6616B_1212]
+    Hap_6: 3  [Uar001A_115 Uar001B_216 Uar273B_1840]
+    Hap_7: 29  [Uar004A_317 Uar004B_418 Uar066A_1537 Uar1254A_141 Uar1254B_242 Uar273A_1739 Uar30952A_343 Uar30952B_444 Uar76924A_545 Uar76924B_646 UarA9105A_147 UarA9105B_248 UarA9106A_349 UarA9106B_450 UarBac01A_527 UarBac01B_628 UarBac02A_729 UarBac02B_830 UarBT1-8A_931 UarBT1-8B_1032 UarBT3-9A_1133 UarBT3-9B_1234 UarC68A_1335 UarC68B_1436 UarCar01A_519 UarCar02A_721 UarF148A_123 UarF148B_224 UarM4051A_325]
+    Hap_8: 3  [Uar066B_1638 UarCar02B_822 UarM4051B_426]
+    Hap_9: 1  [UarCar01B_620]
+    Hap_10: 27  [UmaB24A_353 UmaB24B_454 UmaB26A_555 UmaB26B_656 UmaB28A_757 UmaB30A_959 UmaB31A_1161 UmaB31B_1262 UmaB33A_1363 UmaB33B_1464 UmaB34A_1565 UmaB35A_1767 UmaB35B_1868 UmaB37A_1969 UmaB37B_2070 UmaB38A_2171 UmaB40A_2373 UmaB40B_2474 UmaC120A_2575 UmaC120B_2676 UmaC5A_2777 UmaI01A_3181 UmaI01B_3282 UmaI02A_3383 UmaI03A_3585 UmaI04A_3787 UmaI04B_3888]
+    Hap_11: 1  [Uth_UTHL48_A_189]
+    Hap_12: 1  [Uth_UTHL48_B_290]
+    Hap_13: 2  [Uth_UTHL49_A_391 Uth_UTHL49_B_492]
+    Hap_14: 1  [Uth_UTHL50_B_593]
+    Hap_15: 1  [Uth_UTHL50_A_694]

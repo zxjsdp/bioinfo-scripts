@@ -1,0 +1,36 @@
+
+ Input Data File: C:\...\2. fasta (Without Blank Area)\1.fas
+ Number of sequences: 94    Number of sequences used: 94
+ Selected region: 1-325   Number of sites: 325
+ Total number of sites (excluding sites with gaps / missing data): 319
+
+ Sites with alignment gaps:  considered
+ Number of variable sites: 18
+
+ =========== Haplotype Distribution ===========
+ Number of haplotypes, h: 11
+ Haplotype diversity, Hd: 0.7124
+
+    Hap_1: 5  [1-3 5 9]
+    Hap_2: 1  [4]
+    Hap_3: 8  [6-8 10-14]
+    Hap_4: 27  [15 17-26 33-35 37-43 45-50]
+    Hap_5: 3  [16 36 44]
+    Hap_6: 2  [27-28]
+    Hap_7: 42  [29-32 51-88]
+    Hap_8: 1  [89]
+    Hap_9: 3  [90 93-94]
+    Hap_10: 1  [91]
+    Hap_11: 1  [92]
+
+    Hap_1: 5  [Uam1203A_11 Uam1203B_22 Uam13724A_33 Uam16103A_55 Uam6586A_99]
+    Hap_2: 1  [Uam13724B_44]
+    Hap_3: 8  [Uam16103B_66 Uam24064A_77 Uam24064B_88 Uam6586B_1010 Uam6616A_1111 Uam6616B_1212 UamC122A_1313 UamC122B_1414]
+    Hap_4: 27  [Uar001A_115 Uar004A_317 Uar004B_418 Uar066A_1537 Uar066B_1638 Uar1254A_141 Uar1254B_242 Uar273A_1739 Uar273B_1840 Uar30952A_343 Uar30952B_444 UarBac01A_527 UarBac01B_628 UarBac02A_729 UarBT1-8A_931 UarBT1-8B_1032 UarBT3-9A_1133 UarBT3-9B_1234 UarC68A_1335 UarC68B_1436 UarCar01A_519 UarCar02A_721 UarCar02B_822 UarF148A_123 UarF148B_224 UarM4051A_325 UarM4051B_426]
+    Hap_5: 3  [Uar001B_216 UarBac02B_830 UarCar01B_620]
+    Hap_6: 2  [Uar76924A_545 Uar76924B_646]
+    Hap_7: 42  [UarA9105A_147 UarA9105B_248 UarA9106A_349 UarA9106B_450 Uma009A_151 Uma009B_252 UmaB24A_353 UmaB24B_454 UmaB26A_555 UmaB26B_656 UmaB28A_757 UmaB28B_858 UmaB30A_959 UmaB30B_1060 UmaB31A_1161 UmaB31B_1262 UmaB33A_1363 UmaB33B_1464 UmaB34A_1565 UmaB34B_1666 UmaB35A_1767 UmaB35B_1868 UmaB37A_1969 UmaB37B_2070 UmaB38A_2171 UmaB38B_2272 UmaB40A_2373 UmaB40B_2474 UmaC120A_2575 UmaC120B_2676 UmaC5A_2777 UmaC5B_2878 UmagenomA_2979 UmagenomB_3080 UmaI01A_3181 UmaI01B_3282 UmaI02A_3383 UmaI02B_3484 UmaI03A_3585 UmaI03B_3686 UmaI04A_3787 UmaI04B_3888]
+    Hap_8: 1  [Uth_UTHL48_A_189]
+    Hap_9: 3  [Uth_UTHL48_B_290 Uth_UTHL50_B_593 Uth_UTHL50_A_694]
+    Hap_10: 1  [Uth_UTHL49_A_391]
+    Hap_11: 1  [Uth_UTHL49_B_492]
