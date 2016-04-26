@@ -1,0 +1,1435 @@
+Hap_1:
+
+
+       1 /   11:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       2 /   11:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       7 /   11:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /   11:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_2:
+
+
+       1 /    3:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    3:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    3:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_3:
+
+
+       1 /    1:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+
+
+Hap_4:
+
+
+       1 /   15:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /   15:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /   15:	|	             Green	|	  (128, 0, 128)	|	            Purple
+      12 /   15:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_5:
+
+
+       1 /    1:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+
+
+Hap_6:
+
+
+      92 /  234:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+      51 /  234:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+      54 /  234:	|	             Green	|	  (128, 0, 128)	|	            Purple
+      37 /  234:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_7:
+
+
+       1 /    2:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    2:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_8:
+
+
+       1 /    2:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    2:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_9:
+
+
+      38 /   41:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /   41:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /   41:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /   41:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_10:
+
+
+       3 /    6:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    6:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    6:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    6:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_11:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_12:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_13:
+
+
+       1 /    5:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    5:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    5:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       2 /    5:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_14:
+
+
+       8 /    8:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+
+
+Hap_15:
+
+
+       7 /    9:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    9:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    9:	|	             Green	|	  (128, 0, 128)	|	            Purple
+
+
+Hap_16:
+
+
+       1 /    2:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    2:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_17:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_18:
+
+
+       1 /    3:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    3:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    3:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_19:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_20:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_21:
+
+
+       1 /    3:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    3:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    3:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_22:
+
+
+       1 /    1:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+
+
+Hap_23:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_24:
+
+
+       1 /    3:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    3:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    3:	|	             Green	|	  (128, 0, 128)	|	            Purple
+
+
+Hap_25:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_26:
+
+
+       1 /    2:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    2:	|	             Green	|	  (128, 0, 128)	|	            Purple
+
+
+Hap_27:
+
+
+       2 /    5:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    5:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    5:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    5:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_28:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_29:
+
+
+       1 /    2:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    2:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_30:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_31:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_32:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_33:
+
+
+       1 /    3:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    3:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    3:	|	             Green	|	  (128, 0, 128)	|	            Purple
+
+
+Hap_34:
+
+
+       8 /   39:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       9 /   39:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       8 /   39:	|	             Green	|	  (128, 0, 128)	|	            Purple
+      14 /   39:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_35:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_36:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_37:
+
+
+       1 /    2:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    2:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_38:
+
+
+       1 /    3:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    3:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    3:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_39:
+
+
+       1 /    6:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    6:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       4 /    6:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_40:
+
+
+       2 /    2:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+
+
+Hap_41:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_42:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_43:
+
+
+       1 /    1:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+
+
+Hap_44:
+
+
+       1 /    1:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+
+
+Hap_45:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_46:
+
+
+       1 /    1:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+
+
+Hap_47:
+
+
+       1 /    2:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    2:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_48:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_49:
+
+
+       1 /    1:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+
+
+Hap_50:
+
+
+       1 /    1:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+
+
+Hap_51:
+
+
+       1 /    3:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    3:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    3:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_52:
+
+
+       1 /    1:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+
+
+Hap_53:
+
+
+       1 /    1:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+
+
+Hap_54:
+
+
+       1 /    2:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    2:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_55:
+
+
+       1 /    3:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    3:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    3:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_56:
+
+
+       1 /    2:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    2:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+
+
+Hap_57:
+
+
+       2 /    3:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    3:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+
+
+Hap_58:
+
+
+       1 /    1:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+
+
+Hap_59:
+
+
+       1 /    2:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    2:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_60:
+
+
+       1 /    1:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+
+
+Hap_61:
+
+
+       1 /    2:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    2:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_62:
+
+
+       1 /    2:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    2:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_63:
+
+
+     154 /  154:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+
+
+Hap_64:
+
+
+       1 /    8:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       3 /    8:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    8:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       3 /    8:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_65:
+
+
+      15 /   17:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /   17:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /   17:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_66:
+
+
+       1 /    1:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+
+
+Hap_67:
+
+
+       1 /    1:	|	             Green	|	  (128, 0, 128)	|	            Purple
+
+
+Hap_68:
+
+
+       3 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_69:
+
+
+       1 /    1:	|	             Green	|	  (128, 0, 128)	|	            Purple
+
+
+Hap_70:
+
+
+       1 /    2:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    2:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_71:
+
+
+       1 /    1:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+
+
+Hap_72:
+
+
+       1 /    1:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+
+
+Hap_73:
+
+
+       1 /    1:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+
+
+Hap_74:
+
+
+       1 /    1:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+
+
+Hap_75:
+
+
+       1 /    1:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+
+
+Hap_76:
+
+
+       5 /    5:	|	             Green	|	  (128, 0, 128)	|	            Purple
+
+
+Hap_77:
+
+
+       1 /    1:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+
+
+Hap_78:
+
+
+       1 /    1:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+
+
+Hap_79:
+
+
+       1 /    1:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+
+
+Hap_80:
+
+
+       1 /    1:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+
+
+Hap_81:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_82:
+
+
+       6 /   73:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+      42 /   73:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       2 /   73:	|	             Green	|	  (128, 0, 128)	|	            Purple
+      23 /   73:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_83:
+
+
+       1 /    1:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+
+
+Hap_84:
+
+
+       1 /    6:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    6:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    6:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       3 /    6:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_85:
+
+
+       1 /   47:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /   47:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /   47:	|	             Green	|	  (128, 0, 128)	|	            Purple
+      44 /   47:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_86:
+
+
+      45 /   60:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /   60:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /   60:	|	             Green	|	  (128, 0, 128)	|	            Purple
+      13 /   60:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_87:
+
+
+       1 /    7:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    7:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    7:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       4 /    7:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_88:
+
+
+       1 /    3:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    3:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    3:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_89:
+
+
+       1 /    1:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_90:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_91:
+
+
+       1 /    1:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_92:
+
+
+       4 /    9:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       3 /    9:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    9:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    9:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_93:
+
+
+       1 /    3:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    3:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    3:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_94:
+
+
+       1 /    3:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    3:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    3:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_95:
+
+
+       1 /    1:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_96:
+
+
+       1 /    1:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_97:
+
+
+       1 /    3:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    3:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    3:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_98:
+
+
+       1 /    2:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    2:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+
+
+Hap_99:
+
+
+       1 /    3:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    3:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    3:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_100:
+
+
+       1 /    1:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_101:
+
+
+      14 /   31:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+      12 /   31:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       4 /   31:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /   31:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_102:
+
+
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       3 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_103:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_104:
+
+
+       1 /    1:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_105:
+
+
+       1 /    1:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_106:
+
+
+       1 /    3:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    3:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    3:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_107:
+
+
+       1 /    1:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_108:
+
+
+       1 /    3:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    3:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    3:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_109:
+
+
+       1 /    1:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+
+
+Hap_110:
+
+
+       1 /    1:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_111:
+
+
+       1 /    2:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    2:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_112:
+
+
+       1 /    2:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    2:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+
+
+Hap_113:
+
+
+      20 /  204:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+      67 /  204:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+      70 /  204:	|	             Green	|	  (128, 0, 128)	|	            Purple
+      47 /  204:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_114:
+
+
+       1 /    1:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_115:
+
+
+       1 /    1:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+
+
+Hap_116:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_117:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_118:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_119:
+
+
+       1 /    3:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    3:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    3:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_120:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_121:
+
+
+       1 /   24:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /   24:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /   24:	|	             Green	|	  (128, 0, 128)	|	            Purple
+      21 /   24:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_122:
+
+
+      77 /  739:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+     251 /  739:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+     299 /  739:	|	             Green	|	  (128, 0, 128)	|	            Purple
+     112 /  739:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_123:
+
+
+       1 /  128:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /  128:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /  128:	|	             Green	|	  (128, 0, 128)	|	            Purple
+     125 /  128:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_124:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_125:
+
+
+       1 /    3:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    3:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    3:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_126:
+
+
+       1 /    3:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    3:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    3:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_127:
+
+
+       1 /    3:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    3:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    3:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_128:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_129:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_130:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_131:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_132:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_133:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_134:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_135:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_136:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_137:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_138:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_139:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_140:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_141:
+
+
+       1 /    3:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    3:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    3:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_142:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_143:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_144:
+
+
+       1 /    3:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    3:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    3:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_145:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_146:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_147:
+
+
+       2 /    7:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    7:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    7:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       3 /    7:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_148:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_149:
+
+
+       1 /    3:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    3:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    3:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_150:
+
+
+       1 /    5:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    5:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       2 /    5:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    5:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_151:
+
+
+       1 /    1:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_152:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_153:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_154:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_155:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_156:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_157:
+
+
+       1 /    3:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    3:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    3:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_158:
+
+
+       1 /    1:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+
+
+Hap_159:
+
+
+       1 /    3:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    3:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    3:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_160:
+
+
+       2 /   10:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       2 /   10:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       3 /   10:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       3 /   10:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_161:
+
+
+       1 /    3:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    3:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    3:	|	             Green	|	  (128, 0, 128)	|	            Purple
+
+
+Hap_162:
+
+
+       3 /   24:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       4 /   24:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       8 /   24:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       9 /   24:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_163:
+
+
+       1 /   20:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+      15 /   20:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /   20:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       3 /   20:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_164:
+
+
+       1 /    2:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    2:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_165:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_166:
+
+
+       1 /    5:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    5:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       2 /    5:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    5:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_167:
+
+
+       1 /    6:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    6:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       3 /    6:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    6:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_168:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_169:
+
+
+       1 /    3:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    3:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    3:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_170:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_171:
+
+
+       1 /    8:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       2 /    8:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       4 /    8:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    8:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_172:
+
+
+       1 /   17:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       3 /   17:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+      12 /   17:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /   17:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_173:
+
+
+       1 /    2:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    2:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_174:
+
+
+       1 /    1:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+
+
+Hap_175:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_176:
+
+
+       1 /    3:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    3:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    3:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_177:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_178:
+
+
+       1 /    2:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    2:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_179:
+
+
+       1 /    3:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    3:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    3:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_180:
+
+
+       1 /    2:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    2:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+
+
+Hap_181:
+
+
+       1 /    2:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    2:	|	             Green	|	  (128, 0, 128)	|	            Purple
+
+
+Hap_182:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
+
+Hap_183:
+
+
+       1 /    4:	|	        Antarctica	|	    (0, 128, 0)	|	             Green
+       1 /    4:	|	            Arctic	|	  (0, 255, 255)	|	              Cyan
+       1 /    4:	|	             Green	|	  (128, 0, 128)	|	            Purple
+       1 /    4:	|	            Alaska	|	  (255, 165, 0)	|	            Orange
+
