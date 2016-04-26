@@ -46,7 +46,7 @@ Index
 
 ### [Molecular_Computation](https://github.com/zxjsdp/bioinfo-scripts/tree/master/Molecular_Computation)
 
-- [JDOCK](https://github.com/zxjsdp/bioinfo-scripts/blob/master/Molecular_Computation/multiprocessing_jdock)
+- [multiprocessing_jdock](https://github.com/zxjsdp/bioinfo-scripts/blob/master/Molecular_Computation/multiprocessing_jdock)
 
     多进程使用JDOCK运算分子 docking 的脚本。
 
