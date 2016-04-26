@@ -1,0 +1,70 @@
+Hap_1:
+
+       3 /   11:	|	           Asiatic	|	  255, 248, 220	|	          Cornsilk
+       8 /   11:	|	             Black	|	    128, 128, 0	|	             Olive
+
+
+Hap_2:
+
+       6 /    6:	|	             Black	|	    128, 128, 0	|	             Olive
+
+
+Hap_3:
+
+       3 /    7:	|	        Brown_WEST	|	  255, 240, 245	|	     LavenderBlush
+       1 /    7:	|	          Brown_NA	|	  245, 245, 220	|	             Beige
+       1 /    7:	|	         Brown_ABC	|	  192, 192, 192	|	            Silver
+       2 /    7:	|	        Brown_EAST	|	  255, 218, 185	|	         PeachPuff
+
+
+Hap_4:
+
+       2 /   10:	|	        Brown_WEST	|	  255, 240, 245	|	     LavenderBlush
+       3 /   10:	|	          Brown_NA	|	  245, 245, 220	|	             Beige
+       2 /   10:	|	         Brown_ABC	|	  192, 192, 192	|	            Silver
+       3 /   10:	|	        Brown_EAST	|	  255, 218, 185	|	         PeachPuff
+
+
+Hap_5:
+
+      34 /   51:	|	             Polar	|	  255, 250, 240	|	       FloralWhite
+       3 /   51:	|	        Brown_WEST	|	  255, 240, 245	|	     LavenderBlush
+       1 /   51:	|	           Asiatic	|	  255, 248, 220	|	          Cornsilk
+       1 /   51:	|	         Brown_ABC	|	  192, 192, 192	|	            Silver
+      12 /   51:	|	        Brown_EAST	|	  255, 218, 185	|	         PeachPuff
+
+
+Hap_6:
+
+       1 /    1:	|	        Brown_EAST	|	  255, 218, 185	|	         PeachPuff
+
+
+Hap_7:
+
+       1 /    1:	|	          Brown_NA	|	  245, 245, 220	|	             Beige
+
+
+Hap_8:
+
+       1 /    1:	|	          Brown_NA	|	  245, 245, 220	|	             Beige
+
+
+Hap_9:
+
+       2 /    2:	|	             Polar	|	  255, 250, 240	|	       FloralWhite
+
+
+Hap_10:
+
+       2 /    2:	|	             Polar	|	  255, 250, 240	|	       FloralWhite
+
+
+Hap_11:
+
+       1 /    1:	|	           Asiatic	|	  255, 248, 220	|	          Cornsilk
+
+
+Hap_12:
+
+       1 /    1:	|	           Asiatic	|	  255, 248, 220	|	          Cornsilk
+
