@@ -34,5 +34,9 @@ Index
 
 ### [Haplotype Related](https://github.com/zxjsdp/bioinfo-scripts/tree/master/Haplotype_Related):
 
-- [change_fdi_file_color](ttps://github.com/zxjsdp/bioinfo-scripts/blob/master/Haplotype_Related/change_fdi_file_color)
+- [change_fdi_file_color](https://github.com/zxjsdp/bioinfo-scripts/blob/master/Haplotype_Related/change_fdi_file_color)
+
+    Script to change color, propertion of sector, or maximum node size of fdi file which can be opened Network software.
+
+    Needed txt files (please see example files in `txt_files` folder) from DNASP and original fdi files (without color information, see `fdi_files` folder).
 
