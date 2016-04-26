@@ -1,7 +1,7 @@
 modify_fdi_file_color_with_given_data.py
 ========================================
 
-Modify color, proportion of sector, and max node size of fdi file with given propertion data and fdi file.
+Modify color, proportion of sector, and max node size of fdi file with given proportion data and fdi file.
 
 Usage
 -----

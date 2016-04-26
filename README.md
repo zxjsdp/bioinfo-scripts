@@ -40,3 +40,7 @@ Index
 
     Needed txt files (please see example files in `txt_files` folder) from DNASP and original fdi files (without color information, see `fdi_files` folder).
 
+- [modify_fdi_file_color_with_given_data](https://github.com/zxjsdp/bioinfo-scripts/blob/master/Haplotype_Related/modify_fdi_file_color_with_given_data)
+
+    Script to modify color, proportion of sector, and max node size of fdi file with given proportion data (see `frequency.raw.txt`) and fdi file (see `1.fdi`).
+
