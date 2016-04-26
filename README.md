@@ -44,3 +44,9 @@ Index
 
     Script to modify color, proportion of sector, and max node size of fdi file with given proportion data (see `frequency.raw.txt`) and fdi file (see `1.fdi`).
 
+### [Molecular_Computation](https://github.com/zxjsdp/bioinfo-scripts/tree/master/Molecular_Computation)
+
+- [JDOCK](https://github.com/zxjsdp/bioinfo-scripts/blob/master/Molecular_Computation/JDOCK)
+
+    多进程使用JDOCK运算分子 docking 的脚本。
+
