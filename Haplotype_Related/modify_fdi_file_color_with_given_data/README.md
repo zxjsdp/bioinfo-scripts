@@ -1,5 +1,5 @@
-modify_fdi_file_color_with_given_data.py
-========================================
+Modify fdi file color with given data
+=====================================
 
 Modify color, proportion of sector, and max node size of fdi file with given proportion data and fdi file.
 
@@ -14,7 +14,7 @@ MIN_LIMIT & MAX_LIMIT
 
     if num > MIN_LIMIT:
         num = MIN_LIMIT
-    elif num < MAX_LIMIT1:
-        num = MAX_LIMIT1
+    elif num < MAX_LIMIT:
+        num = int(round(MAX_LIMIT))
     else:
-        num = int(num)
+        num = int(round(num))
