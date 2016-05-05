@@ -44,6 +44,10 @@ Index
 
     Script to modify color, proportion of sector, and max node size of fdi file with given proportion data (see `frequency.raw.txt`) and fdi file (see `1.fdi`).
 
+- [Fdi Generator](https://github.com/zxjsdp/bioinfo-scripts/blob/master/Haplotype_Related/FdiGenerator)
+
+    A GUI tool for quickly generating new fdi files with different proportions and colors.
+
 ### [Molecular_Computation](https://github.com/zxjsdp/bioinfo-scripts/tree/master/Molecular_Computation)
 
 - [multiprocessing_jdock](https://github.com/zxjsdp/bioinfo-scripts/blob/master/Molecular_Computation/multiprocessing_jdock)
