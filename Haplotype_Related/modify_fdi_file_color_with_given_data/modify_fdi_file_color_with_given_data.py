@@ -31,6 +31,7 @@ except ImportError:
 
 __version__ = '0.2.0'
 
+IGNORE_LIMIT = 0
 MIN_LIMIT = 1
 MAX_LIMIT = 700
 
@@ -251,8 +252,10 @@ def processing_raw_data(raw_data_file, data_file):
     for line in lines:
         number_list = [float(x) for x in line.split()]
         for i, number in enumerate(number_list):
-            if 0 < number < MIN_LIMIT:
-                number_list[i] = MIN_LIMIT
+            if number <= IGNORE_LIMIT:
+                number_list[i] = 0
+            elif IGNORE_LIMIT < number < MIN_LIMIT:
+                number_list[i] = int(round(MIN_LIMIT))
             elif number > MAX_LIMIT:
                 number_list[i] = int(round(MAX_LIMIT))
             else:
