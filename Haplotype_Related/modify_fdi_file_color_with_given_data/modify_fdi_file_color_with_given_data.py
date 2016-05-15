@@ -22,6 +22,8 @@
 from __future__ import print_function
 
 import os
+import re
+import sys
 try:
     from PIL import Image, ImageFont, ImageDraw
     import colorsys
@@ -52,6 +54,11 @@ COLOR_LIST = [
     ('Orange', (255, 165, 0))
 ]
 INFO_LINE_STYLE = "    %4d / %4d:\t|\t%18s\t|\t%15s\t|\t%18s"
+
+TAXON_FREQUENCY_STR = 'TAXON_FREQUENCY'
+TAXON_ORIG_FREQUENCY_STR = 'TAXON_ORIG_FREQUENCY'
+RE_TAXON_FREQUENCY = re.compile(r"TAXON_FREQUENCY;\d+;")
+RE_TAXON_ORIG_FREQUENCY = re.compile(r"TAXON_ORIG_FREQUENCY;\d+;")
 
 OUT_DIR = os.path.abspath('./output')
 IMAGE_DIR = os.path.abspath('./images')
@@ -359,6 +366,7 @@ class HandleFdi(object):
                 line = line.replace('50', MAX_CIRC_RADIUS)
                 self.final_list.append(line)
             elif line.startswith("TAXON_NAME;H_"):
+                freq_sum = 0
                 # keep_part, throw_part
                 keep_part, _ = line.split("TAXON_COLOR_PIE1")
                 hap_num = line.split(";")[1].replace("H", "Hap").strip()
@@ -372,6 +380,7 @@ class HandleFdi(object):
                 modified_line += keep_part.rstrip("TAXON_COLOR_PIE1")
                 for i, (num_raw, rgb_value) in enumerate(info_list):
                     frequency = num_raw.split("/")[0].strip()
+                    freq_sum += int(frequency)
                     modified_line += (
                         "TAXON_COLOR_PIE%d;%s;" % (i + 1, rgb_value) +
                         "TAXON_PIE_FREQUENCY%d;%s;" % (i + 1, frequency) +
@@ -380,6 +389,22 @@ class HandleFdi(object):
                                   "TAXON_LINE_COLOR;%s;" % BORDER_COLOR +
                                   "TAXON_LINE_STYLE;SOLID;" +
                                   "TAXON_ACTIVE;TRUE\n")
+
+                try:
+                    taxon_freq_str = RE_TAXON_FREQUENCY.findall(
+                        modified_line)[0]
+                    taxon_orig_freq_str = RE_TAXON_ORIG_FREQUENCY.findall(
+                        modified_line)[0]
+                except IndexError:
+                    sys.exit("Invalid fdi file")
+
+                # Total frequency issue (issue #23)
+                modified_line = modified_line.replace(
+                    taxon_freq_str, '%s;%d;' % (TAXON_FREQUENCY_STR, freq_sum))
+                modified_line = modified_line.replace(
+                    taxon_orig_freq_str, '%s;%d;' % (TAXON_ORIG_FREQUENCY_STR,
+                                                     freq_sum))
+
                 self.final_list.append(modified_line)
             else:
                 self.final_list.append(line)
