@@ -1,6 +1,16 @@
 Fdi Generator
 =============
 
+WARNING
+-------
+
+FdiGenerator was seperated out to a standalone repository [FdiGenerator](https://github.com/zxjsdp/FdiGenerator) for maintenance convenience. No further updates will be posted here.
+
+Please go to [FdiGenerator](https://github.com/zxjsdp/FdiGenerator) rather than looking down.
+
+Introduction
+------------
+
 A GUI tool for quickly generating new fdi files with different proportions and colors.
 
 
