@@ -44,7 +44,9 @@ Index
 
     Script to modify color, proportion of sector, and max node size of fdi file with given proportion data (see `frequency.raw.txt`) and fdi file (see `1.fdi`).
 
-- [Fdi Generator](https://github.com/zxjsdp/bioinfo-scripts/blob/master/Haplotype_Related/FdiGenerator)
+- Fdi Generator
+
+    **WARNING**: FdiGenerator was moved to a standalone repository: [FdiGenerator](https://github.com/zxjsdp/FdiGenerator). Please to to this [new repository](https://github.com/zxjsdp/FdiGenerator) for latest version of FdiGenerator.
 
     A GUI tool for quickly generating new fdi files with different proportions and colors.
 
