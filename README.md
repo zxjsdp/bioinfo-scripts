@@ -16,21 +16,23 @@ Index
 
     Convert Phylip file to FASTA file.
 
-### [PCA](https://github.com/zxjsdp/bioinfo-scripts/tree/master/PCA):
 
-- [Randomly_select_and_do_multiple_PCAs](https://github.com/zxjsdp/bioinfo-scripts/tree/master/PCA/Randomly_select_and_do_multiple_PCAs)
 
-    Randomly select data (similar to bootstrap method) and do PCA, draw PCA plots.
+### [Data Processing](https://github.com/zxjsdp/bioinfo-scripts/tree/master/Data_Processing)
 
-- [PCA_with_name](https://github.com/zxjsdp/bioinfo-scripts/tree/master/PCA/PCA_with_name)
+- [plant_specimen_xlsx_expansion](https://github.com/zxjsdp/bioinfo-scripts/tree/master/Data_Processing/plant_specimen_xlsx_expansion)
 
-    Do PCA and draw PCA plots with names.
+    Expand plant specimen record lines to corresponding copy numbers for specimen label printing.
+
+
 
 ### [Dictionary](https://github.com/zxjsdp/bioinfo-scripts/tree/master/Dictionary):
 
 - [CSV_Dictionary](https://github.com/zxjsdp/bioinfo-scripts/tree/master/Dictionary/CSV_Dictionary)
 
     Query multiple lines by first column values in CSV file.
+
+
 
 ### [Haplotype Related](https://github.com/zxjsdp/bioinfo-scripts/tree/master/Haplotype_Related):
 
@@ -50,9 +52,23 @@ Index
 
     A GUI tool for quickly generating new fdi files with different proportions and colors.
 
+
+
 ### [Molecular_Computation](https://github.com/zxjsdp/bioinfo-scripts/tree/master/Molecular_Computation)
 
 - [multiprocessing_jdock](https://github.com/zxjsdp/bioinfo-scripts/blob/master/Molecular_Computation/multiprocessing_jdock)
 
     多进程使用JDOCK运算分子 docking 的脚本。
+
+
+
+### [PCA](https://github.com/zxjsdp/bioinfo-scripts/tree/master/PCA):
+
+- [Randomly_select_and_do_multiple_PCAs](https://github.com/zxjsdp/bioinfo-scripts/tree/master/PCA/Randomly_select_and_do_multiple_PCAs)
+
+    Randomly select data (similar to bootstrap method) and do PCA, draw PCA plots.
+
+- [PCA_with_name](https://github.com/zxjsdp/bioinfo-scripts/tree/master/PCA/PCA_with_name)
+
+    Do PCA and draw PCA plots with names.
 
