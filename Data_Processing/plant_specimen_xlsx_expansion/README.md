@@ -1,7 +1,7 @@
 Plant specimen xlsx expansion script
 ====================================
 
-This script is used to expand plant specimen record lines to corresponding numbers for specimen label printing.
+This script is used to expand plant specimen record lines to corresponding copy numbers for specimen label printing.
 
 Prerequisites
 -------------
